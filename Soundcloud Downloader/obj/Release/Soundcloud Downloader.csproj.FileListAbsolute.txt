@@ -1,0 +1,11 @@
+C:\Users\usama\documents\visual studio 2013\Projects\Soundcloud Downloader\Soundcloud Downloader\bin\Release\Soundcloud Downloader.exe.config
+C:\Users\usama\documents\visual studio 2013\Projects\Soundcloud Downloader\Soundcloud Downloader\bin\Release\Soundcloud Downloader.exe
+C:\Users\usama\documents\visual studio 2013\Projects\Soundcloud Downloader\Soundcloud Downloader\bin\Release\Soundcloud Downloader.pdb
+C:\Users\usama\documents\visual studio 2013\Projects\Soundcloud Downloader\Soundcloud Downloader\obj\Release\Soundcloud_Downloader.About.resources
+C:\Users\usama\documents\visual studio 2013\Projects\Soundcloud Downloader\Soundcloud Downloader\obj\Release\Soundcloud_Downloader.DownloadComplete.resources
+C:\Users\usama\documents\visual studio 2013\Projects\Soundcloud Downloader\Soundcloud Downloader\obj\Release\Soundcloud_Downloader.HowToUse.resources
+C:\Users\usama\documents\visual studio 2013\Projects\Soundcloud Downloader\Soundcloud Downloader\obj\Release\Soundcloud_Downloader.SoundcloudDownloader.resources
+C:\Users\usama\documents\visual studio 2013\Projects\Soundcloud Downloader\Soundcloud Downloader\obj\Release\Soundcloud_Downloader.Properties.Resources.resources
+C:\Users\usama\documents\visual studio 2013\Projects\Soundcloud Downloader\Soundcloud Downloader\obj\Release\Soundcloud Downloader.csproj.GenerateResource.Cache
+C:\Users\usama\documents\visual studio 2013\Projects\Soundcloud Downloader\Soundcloud Downloader\obj\Release\Soundcloud Downloader.exe
+C:\Users\usama\documents\visual studio 2013\Projects\Soundcloud Downloader\Soundcloud Downloader\obj\Release\Soundcloud Downloader.pdb

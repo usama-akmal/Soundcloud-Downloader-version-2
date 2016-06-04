@@ -1,0 +1,12 @@
+c:\users\usama\documents\visual studio 2013\Projects\Soundcloud Downloader\Soundcloud Downloader\bin\Debug\Soundcloud Downloader.exe.config
+c:\users\usama\documents\visual studio 2013\Projects\Soundcloud Downloader\Soundcloud Downloader\bin\Debug\Soundcloud Downloader.exe
+c:\users\usama\documents\visual studio 2013\Projects\Soundcloud Downloader\Soundcloud Downloader\bin\Debug\Soundcloud Downloader.pdb
+c:\users\usama\documents\visual studio 2013\Projects\Soundcloud Downloader\Soundcloud Downloader\obj\Debug\Soundcloud Downloader.csprojResolveAssemblyReference.cache
+c:\users\usama\documents\visual studio 2013\Projects\Soundcloud Downloader\Soundcloud Downloader\obj\Debug\Soundcloud_Downloader.Properties.Resources.resources
+c:\users\usama\documents\visual studio 2013\Projects\Soundcloud Downloader\Soundcloud Downloader\obj\Debug\Soundcloud Downloader.csproj.GenerateResource.Cache
+c:\users\usama\documents\visual studio 2013\Projects\Soundcloud Downloader\Soundcloud Downloader\obj\Debug\Soundcloud Downloader.exe
+c:\users\usama\documents\visual studio 2013\Projects\Soundcloud Downloader\Soundcloud Downloader\obj\Debug\Soundcloud Downloader.pdb
+c:\users\usama\documents\visual studio 2013\Projects\Soundcloud Downloader\Soundcloud Downloader\obj\Debug\Soundcloud_Downloader.SoundcloudDownloader.resources
+c:\users\usama\documents\visual studio 2013\Projects\Soundcloud Downloader\Soundcloud Downloader\obj\Debug\Soundcloud_Downloader.HowToUse.resources
+c:\users\usama\documents\visual studio 2013\Projects\Soundcloud Downloader\Soundcloud Downloader\obj\Debug\Soundcloud_Downloader.About.resources
+C:\Users\usama\documents\visual studio 2013\Projects\Soundcloud Downloader\Soundcloud Downloader\obj\Debug\Soundcloud_Downloader.DownloadComplete.resources
